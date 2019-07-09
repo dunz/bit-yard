@@ -13,5 +13,23 @@
         "origin": "AUTHORED",
         "exported": true
     },
+    "sum": {
+        "files": [
+            {
+                "relativePath": "src/function/sum/README.md",
+                "test": false,
+                "name": "README.md"
+            },
+            {
+                "relativePath": "src/function/sum/index.js",
+                "test": false,
+                "name": "index.js"
+            }
+        ],
+        "mainFile": "src/function/sum/index.js",
+        "trackDir": "src/function/sum",
+        "origin": "AUTHORED",
+        "exported": false
+    },
     "version": "14.1.3"
 }
