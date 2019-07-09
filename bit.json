@@ -1,6 +1,6 @@
 {
     "env": {
-        "compiler": "bit.envs/bundlers/vue@2.5.0"
+        "compiler": "bit.envs/compilers/babel@7.0.1"
     },
     "componentsDefaultDirectory": "components/{name}",
     "packageManager": "npm"
